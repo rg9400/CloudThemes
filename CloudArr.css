@@ -883,6 +883,11 @@ pre{
 .SeriesIndexPoster-link-29yKp{
 	position: initial;
 }
+.ArtistDetails-titleContainer-1KSuS{
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 auto;
+	flex: 0 0 auto;
+}
 .SeriesIndexPoster-title-1LWvk,.SeriesIndexPoster-nextAiring-2dTrg,
 .ArtistIndexPoster-title-3bXfu, .ArtistIndexBanner-title-3TKM6{
 	background-color: transparent;
