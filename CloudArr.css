@@ -1349,7 +1349,7 @@ i.black.icon{
 }
 .ui.label{
 	color: #d7d7d7;
-	background-color: rgba(51,122,183,.8);
+	background-color: rgba(51,122,183,.5);
 }
 .ui.basic.button:hover, .ui.basic.buttons .button:hover,
 .ui.basic.button:focus, .ui.basic.buttons .button:focus,
@@ -1438,7 +1438,7 @@ i.red.icon{
 	color:rgba(171, 0, 0, .6) !important;
 }
 i.blue.icon{
-	color: rgba(70,130,180,.8) !important;
+	color: rgba(70,130,180,.5) !important;
 }
 i.green.icon{
 	color: rgba(25,150,50,.5) !important;
@@ -1578,7 +1578,7 @@ a.ui.label:hover, a.ui.labels .label:hover{
 	background-color: rgba(70,130,180,1);
 }
 a.ui.label{
-	background-color: rgba(70,130,180,.8);
+	background-color: rgba(70,130,180,.5);
 	color: #d7d7d7;
 }
 .ui.multiple.dropdown>.label{
@@ -1657,7 +1657,7 @@ table.dataTable tbody tr {
 }
 .ui.inverted.labels .label, .ui.inverted.label{
 	color: #d7d7d7;
-	background-color: rgba(51,122,183,.8) !important;
+	background-color: rgba(51,122,183,.5) !important;
 	font-size: 11 !important;
 }
 .ui.checkbox input:checked:focus~.box:before,
