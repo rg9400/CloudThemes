@@ -1315,7 +1315,7 @@ div#message.ui.segment, div#exception.ui.segment{
 }
 .ui.green.label, .ui.green.labels .label{
 	background-color: rgba(25,150,50,.5) !important;
-	color: #d7d7d7 !important;
+	color: white !important;
 	border-color: transparent !important;
 }
 .ui.yellow.progress .bar{
@@ -1326,7 +1326,7 @@ div#message.ui.segment, div#exception.ui.segment{
 .ui.yellow.label, .ui.yellow.labels .label{
 	background-color: #cc7b19 !important;
 	border-color: transparent !important;
-	color: #d7d7d7 !important;
+	color: white !important;
 }
 #fondblanc{
 	background-color: transparent;
@@ -1545,10 +1545,10 @@ i.green.icon{
 	border-color: transparent;
 }
 .ui.disabled.input, .ui.input:not(.disabled) input[disabled]{
-	background-color: rgba(0,0,0,.5);
+	background-color: rgba(0,0,0,1);
 	color: #aaa;
 	border: none;
-	opacity: 1;
+	opacity: .5;
 }
 .ui.toggle.checkbox input:checked~.box:before, .ui.toggle.checkbox input:checked~label:before,
 .ui.toggle.checkbox input:focus:checked~.box:before,
@@ -1675,4 +1675,8 @@ table.dataTable tbody tr {
 .ui.inverted.menu .dropdown.item:hover, .ui.inverted.menu .link.item:hover,
 .ui.inverted.menu a.item:hover, .ui.link.inverted.menu .item:hover{
 	border: none;
+}
+.ui.modal>.close{
+	top: 0;
+	right: 0;
 }
