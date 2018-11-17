@@ -1219,6 +1219,11 @@ input{
 .Message-info-2PZwQ{
 	border-left-color: rgba(70,130,180,.8);;
 }
+.Label-disabled-3lgv4.Label-outline-2ZP8n {
+    color: #aaa;
+    background-color: rgba(0,0,0,.3);
+    border-color: transparent;
+}
 .Label-danger-1rVtt, .ProgressBar-danger-3X-EI,
 .SeriesIndexFooter-missingMonitored-2Vkpt, .ArtistIndexFooter-missingMonitored-Giu8p{
     border-color: transparent;
