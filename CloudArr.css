@@ -1201,6 +1201,10 @@ input{
     background-color: rgba(25,150,50,.5);
     color: #d7d7d7;
 }
+.ProtocolLabel-torrent-3hHv9 {
+    border-color: transparent;
+    background-color: rgba(25,150,50,.7) !important;
+}
 .CalendarEvent-downloaded-1wXUG{
 	border-left-color:  rgba(25, 255, 0, .35) !important;
 }
