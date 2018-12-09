@@ -457,6 +457,12 @@ legend{
 	color:#d7d7d7;
 	opacity:1
 }
+.bootstrap-tagsinput .tt-dropdown-menu .tt-suggestion{
+	color: #d7d7d7;
+}
+.tt-dropdown-menu{
+	background-color: rgba(0,0,0,.91);
+}
 .tt-suggestion.tt-cursor {
     background-color: rgba(255,255,255,.08) !important;
     color: white !important;
