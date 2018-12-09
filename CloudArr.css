@@ -463,6 +463,12 @@ legend{
 .tt-dropdown-menu{
 	background-color: rgba(0,0,0,.91);
 }
+.KeyValueListInputItem-keyInput-13ATg, .KeyValueListInputItem-valueInput-2LjJ5{
+	background-color: transparent;
+}
+.KeyValueListInputItem-itemContainer-1PW0F{
+	border-color: #aaa;
+}
 .tt-suggestion.tt-cursor {
     background-color: rgba(255,255,255,.08) !important;
     color: white !important;
