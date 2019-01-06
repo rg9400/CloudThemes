@@ -1705,3 +1705,9 @@ table.dataTable tbody tr {
 	top: 0;
 	right: 0;
 }
+.react-selectize.root-node .react-selectize-control .react-selectize-search-field-and-selected-values .resizable-input{
+color: #d7d7d7;
+}
+.react-selectize.root-node .react-selectize-control .react-selectize-search-field-and-selected-values .value-wrapper:not(:first-child):before{
+color: white;
+}
