@@ -1297,6 +1297,9 @@ input{
 .SeriesIndexOverview-title-1ta1o:hover{
 	color:white !important;
 }
+.SeriesIndexPosterInfo-info-URLdY{
+	background-color: transparent;
+}
 .prompt {
     background-color: rgba(255,255,255,.08) !important;
     color: #d7d7d7 !important;
