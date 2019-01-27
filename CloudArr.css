@@ -867,22 +867,21 @@ pre{
 }
 .PageSidebarItem-link-2ron8{
 	color: #d7d7d7;
-	height: 45px;
+	height: 60px;
 }
 .PageSidebarItem-link-2ron8:hover, .PageSidebarItem-link-2ron8:focus{
 	color: white;
 }
 .PageHeader-header-1lnFT{
-	background-color: #162027;
-	height: 45px;
+	background-color: rgba(0,0,0,.6);
 }
 .PageToolbar-toolbar-1oL_w{
 	background-color: rgba(0,0,0,.2);
 	color:#d7d7d7;
-	height:45px;
+	height:60px;
 }
 .PageSidebarItem-iconContainer-1TiQu{
-	margin-top: 0px;
+	margin-top: 9px;
 }
 .PageSidebarItem-status-3jUGh{
 	margin-top: 9px;
