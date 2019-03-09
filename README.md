@@ -5,7 +5,7 @@
 ## Cloud Arr
 The current version has support for Radarr, Sonarr V2, and Bazarr.
 
-It used to have support for Lidarr and SOnarr V3, but when they update their webpack, it changes each and every selector to a different hash, breaking the CSS completely. While I would like to fix my CSS, this is too cumbersome to do, especially since it may happen again in the future.
+It used to have support for Lidarr and Sonarr V3, but when they update their webpack, it changes each and every selector to a different hash, breaking the CSS completely. While I would like to fix my CSS, this is too cumbersome to do, especially since it may happen again in the future.
 
 ### Setup
 <details><summary>Expand</summary>
